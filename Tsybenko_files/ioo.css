@@ -2,7 +2,7 @@
 @font-face {
   font-family: 'Merriweather Sans';
   font-style: normal;
-  font-weight: 400;
+  font-weight: 300;
   src: url('../fonts/merriweather-sans-v8-latin-regular.eot'); /* IE9 Compat Modes */
   src: local('Merriweather Sans'), local('MerriweatherSans-Regular'),
        url('./fonts/merriweather-sans-v8-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
