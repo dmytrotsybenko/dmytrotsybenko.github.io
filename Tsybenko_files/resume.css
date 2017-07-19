@@ -46,8 +46,6 @@ td { vertical-align: top; padding: .5em 1em; }
 
 .main tr td p, .main tr td ul { margin-bottom: 1em; }
 
-.ename:after { content: "@"; }
-
 #work .additional-work-item { display: none; }
 
 #work.show-additional-work .additional-work-item { display: block; }
